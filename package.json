@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/CrazyDi/YelpCamp/issues"
   },
-  "homepage": "https://github.com/CrazyDi/YelpCamp#readme"
+  "homepage": "https://github.com/CrazyDi/YelpCamp#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "mongoose": "^6.5.3"
+  }
 }
